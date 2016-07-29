@@ -1,0 +1,2 @@
+"Say, \"hello\" to everyone\\everything\n" + 
+"that you meet today."
