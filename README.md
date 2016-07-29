@@ -6,7 +6,8 @@ Removes the quoting that is used for string literals in Java
 
 Accepts a string as an argument, returns a transformed string.
 
-> var jQuote = require('j-unquote')
+> var jUnquote = require('j-unquote')
+>
 > var unquoted = jUnquote(quoted)
 
 ## Command Line Invocation
