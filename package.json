@@ -1,6 +1,6 @@
 {
   "name": "j-unquote",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool to remove Java style string quoting",
   "main": "j-unquote.js",
   "bin": {
@@ -9,7 +9,11 @@
   "scripts": {
     "test": ". test/test.sh"
   },
-  "author": "",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/SpiderStrategies/j-unquote"
+  },
+  "author": "Dan Kolz",
   "license": "ISC",
   "dependencies": {
     "console-in-transformer": "^1.0.1",
